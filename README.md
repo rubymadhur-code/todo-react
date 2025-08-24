@@ -17,16 +17,4 @@ A **modern, interactive To-Do List** built with **React** and **Tailwind CSS**, 
 
 ---
 
-## Demo
 
-You can see the live demo here:  
-*(Add your deployed link if hosted on Netlify/Vercel/GitHub Pages)*
-
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/react-todo-list.git
